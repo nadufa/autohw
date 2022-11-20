@@ -1,6 +1,7 @@
 .buttonContainer {
     display: flex;
     gap: 24px;
+    margin: 15px;
     margin-bottom: 32px;
 }
 
@@ -52,4 +53,5 @@
     gap: 17px;
     flex-wrap: wrap;
     max-width: 450px;
+    margin: 15px;
 }
